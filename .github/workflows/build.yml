@@ -26,3 +26,4 @@ jobs:
       - name: Maven Verify
         run: mvn -X verify -B --file pom.xml
 ...
+
